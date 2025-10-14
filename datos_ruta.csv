@@ -1,0 +1,6 @@
+fecha,trafico_esal,humedad,temp_media,delta_temp,freq_congelacion,friccion,velocidad_promedio,degradacion_real
+2023-01-01,1200,70,18,12,0,0.75,45,2.1
+2023-02-01,1350,72,19,10,0,0.73,46,2.3
+2023-03-01,1500,68,22,15,1,0.70,50,2.6
+2023-04-01,1600,65,20,20,2,0.68,52,3.0
+2023-05-01,1700,80,17,8,0,0.72,44,2.7
